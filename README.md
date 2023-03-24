@@ -12,9 +12,13 @@ The Installation process is the following:
 
 ## Screenshots
 
-Although the container classname may frequently changes, Amazon usually wraps all the item data in one single div. So in case where the class name has changed, you should look into the web browser for the new name and paste it into the Excel D3 cell. 
+Although the container classname may frequently changes, Amazon usually wraps all the item data in one single div. 
 
 ![excel_amazon_scrpaer_a](https://user-images.githubusercontent.com/42306447/227422991-f15bbe66-68e5-4c20-8be1-d13b8f8fbb48.png)
+
+So in case where the class name has changed, you should look into the web browser for the new name and paste it into the Excel D3 cell. 
+
+![Presentación1](https://user-images.githubusercontent.com/42306447/227423988-475e2bd8-cd1e-422e-911d-dded306e1a34.png)
 
 ## Authors
 - [@jolsky](https://github.com/jolsky)
